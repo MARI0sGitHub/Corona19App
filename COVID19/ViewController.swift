@@ -155,7 +155,7 @@ class ViewController: UIViewController {
   ) {
     let url = "https://api.corona-19.kr/korea/country/new/"
     let param = [
-      "serviceKey": "dxMSPiu1YjDvU3RXApyTV6WQH5qckhsot"
+        "serviceKey": Bundle.main.apiKey
     ]
     //Alamofire를 이용하여 api를 호출
     //parameters: 에 딕셔너리 형태로 전달하면 알아서 url 뒤에 쿼리를 추가함
