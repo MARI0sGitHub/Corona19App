@@ -1,9 +1,4 @@
-//
-//  CovidDetailViewController.swift
-//  COVID19
-//
-//  Created by Gunter on 2021/09/19.
-//
+
 
 import UIKit
 

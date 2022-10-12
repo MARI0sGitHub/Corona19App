@@ -1,9 +1,4 @@
-//
-//  Covid19++Bundle.swift
-//  COVID19
-//
-//  Created by MAC BOOK PRO 2013 EARLY on 2022/09/03.
-//
+
 
 import Foundation
 

@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  COVID19
-//
-//  Created by Gunter on 2021/09/18.
-//
+
 
 import UIKit
 
